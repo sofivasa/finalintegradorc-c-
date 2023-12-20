@@ -1,0 +1,3 @@
+/Users/sofivazsanch/Documents/GitHub/finalintegradorc-c-/cmake-build-debug/CMakeFiles/finalintegradorc_c_.dir
+/Users/sofivazsanch/Documents/GitHub/finalintegradorc-c-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofivazsanch/Documents/GitHub/finalintegradorc-c-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
